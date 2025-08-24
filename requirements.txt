@@ -2,7 +2,7 @@
 streamlit==1.22.0
 python-dotenv==1.0.0
 
-# LangChain (old import paths used in your code)
+# LangChain
 langchain==0.0.284
 pydantic<2
 
@@ -23,5 +23,5 @@ python-magic-bin==0.4.14
 lxml==4.9.3
 beautifulsoup4>=4.12.2
 
-# OpenAI (for legacy notebooks that use the v0 SDK)
+# OpenAI
 openai==0.28.0
